@@ -162,4 +162,4 @@ git push origin main
 
 ---
 
-Built with ❤️ by **Tanaya Asalkar**
+Built by **Tanaya Asalkar**
